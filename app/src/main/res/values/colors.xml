@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+
+    <color name="primary">#409EFF</color>
+    <color name="borderPrimary">#D1E9FF</color>
+    <color name="darkPrimary">#0662f5</color>
+    <color name="lightPrimary">#E8F4FF</color>
+
+    <color name="success">#13CE66</color>
+    <color name="borderSuccess">#D0F5E0</color>
+    <color name="lightSuccess">#E7FAF0</color>
+
+    <color name="warning">#E6A23C</color>
+    <color name="lightWarning">#faf1ef</color>
+
+    <color name="danger">#F56C6C</color>
+    <color name="borderDanger">#aaF56C6C</color>
+    <color name="lightDanger">#ccf7e8e8</color>
+
+    <color name="info">#909399</color>
+    <color name="borderInfo">#cdcdcd</color>
+    <color name="lightInfo">#80efefef</color>
+
+    <color name="white">#ffffff</color>
+
+
 </resources>
